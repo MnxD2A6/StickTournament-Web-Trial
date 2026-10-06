@@ -1,0 +1,1 @@
+{"name":"stick-four-player-trial","private":true,"version":"0.1.0","type":"module","scripts":{"test":"node --test test/*.test.mjs","start":"node server.mjs"},"dependencies":{"ws":"8.22.0"}}
